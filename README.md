@@ -97,12 +97,17 @@ Copied project to mattgg51 for testing pull requests
 ## Test changes 20230325 feature/JIRA-0006
 Test the approval
 
+CONFLICT LINE HERE
+
 ## Test changes 20230325 feature/JIRA-0007
 Test the PR with comment, then rejected, then approved
 Added more comments as per mattgg51 requests
 Second time I do the changes mate !!! 
+<<<<<<< HEAD
 
 ## Test changes 20230325 feature/JIRA-0008
 Testing conflict
 
 CONFLICT LINE HERE 
+=======
+>>>>>>> daaff20acd30264e4f28499b690bc9b3a1c2789c
